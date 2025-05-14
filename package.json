@@ -1,5 +1,6 @@
 {
   "name": "cash",
+  "homepage": "https://jiyemun.github.io/kakaopay/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
