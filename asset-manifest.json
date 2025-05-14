@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.c641cbbe.js",
-    "static/js/453.944e8242.chunk.js": "/static/js/453.944e8242.chunk.js",
-    "static/media/pay.jpg": "/static/media/pay.1a5fa26a5c3577500a9b.jpg",
-    "index.html": "/index.html",
-    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.c641cbbe.js.map": "/static/js/main.c641cbbe.js.map",
-    "453.944e8242.chunk.js.map": "/static/js/453.944e8242.chunk.js.map"
+    "main.css": "/kakaopay/static/css/main.e6c13ad2.css",
+    "main.js": "/kakaopay/static/js/main.4ae73273.js",
+    "static/js/453.944e8242.chunk.js": "/kakaopay/static/js/453.944e8242.chunk.js",
+    "static/media/pay.jpg": "/kakaopay/static/media/pay.1a5fa26a5c3577500a9b.jpg",
+    "index.html": "/kakaopay/index.html",
+    "main.e6c13ad2.css.map": "/kakaopay/static/css/main.e6c13ad2.css.map",
+    "main.4ae73273.js.map": "/kakaopay/static/js/main.4ae73273.js.map",
+    "453.944e8242.chunk.js.map": "/kakaopay/static/js/453.944e8242.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.c641cbbe.js"
+    "static/js/main.4ae73273.js"
   ]
 }
